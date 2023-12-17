@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "reactNativeTypescriptBoilerplate.app"
-               BlueprintName = "reactNativeTypescriptBoilerplate"
-               ReferencedContainer = "container:reactNativeTypescriptBoilerplate.xcodeproj">
+               BuildableName = "notepadapp.app"
+               BlueprintName = "notepadapp"
+               ReferencedContainer = "container:notepadapp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "reactNativeTypescriptBoilerplateTests.xctest"
-               BlueprintName = "reactNativeTypescriptBoilerplateTests"
-               ReferencedContainer = "container:reactNativeTypescriptBoilerplate.xcodeproj">
+               BuildableName = "notepadappTests.xctest"
+               BlueprintName = "notepadappTests"
+               ReferencedContainer = "container:notepadapp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "reactNativeTypescriptBoilerplate.app"
-            BlueprintName = "reactNativeTypescriptBoilerplate"
-            ReferencedContainer = "container:reactNativeTypescriptBoilerplate.xcodeproj">
+            BuildableName = "notepadapp.app"
+            BlueprintName = "notepadapp"
+            ReferencedContainer = "container:notepadapp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "reactNativeTypescriptBoilerplate.app"
-            BlueprintName = "reactNativeTypescriptBoilerplate"
-            ReferencedContainer = "container:reactNativeTypescriptBoilerplate.xcodeproj">
+            BuildableName = "notepadapp.app"
+            BlueprintName = "notepadapp"
+            ReferencedContainer = "container:notepadapp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

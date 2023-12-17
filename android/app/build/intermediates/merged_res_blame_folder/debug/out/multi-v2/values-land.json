@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.reactnativetypescriptboilerplate.app-mergeDebugResources-27:/values-land/values-land.xml",
+            "outputFile": "com.notepadapp-mergeDebugResources-27:/values-land/values-land.xml",
             "map": [
                 {
                     "source": "C:\\Users\\dipkr\\.gradle\\caches\\transforms-3\\ff7f9e1ea9c2e709fffb9e018f2252cf\\transformed\\material-1.1.0\\res\\values-land\\values-land.xml",
